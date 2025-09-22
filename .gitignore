@@ -10,5 +10,6 @@ wheels/
 .venv
 .env
 last_processed_video.txt
+processed_videos.txt
 uv.lock
 .python-version
