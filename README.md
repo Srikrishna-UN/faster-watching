@@ -1,6 +1,6 @@
 # Faster-Watching
 
-A simple Python script that automatically generates summaries and actionable takeaways from YouTube videos as they are added to a playlist and saves them to your preferred location and format.
+A Python script that automatically generates summaries and actionable takeaways from YouTube videos as they are added to a playlist and saves them to your preferred location and format.
 
 **Features:**
 * Automatically checks a designated YouTube playlist for new video additions.
